@@ -33,7 +33,7 @@ h1{
   top:0;
 }
 
-.messageForm{
+.messageform{
   border:2px dashed red;
   display:flex;
   flex-direction: column;  
