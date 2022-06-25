@@ -52,6 +52,7 @@ h1{
   display:flex;
   flex-direction: column;
   align-items: center;
+  
 }
 
 /*coś tu nie działa*/
@@ -60,3 +61,18 @@ footer{display: flex;
 
   top: 0;
 }
+
+
+/*coś nie działa*/
+
+@media screen and (max-width: 600px).topArticle
+      font-size: 0.8em;
+      font-family: arial;
+  }
+
+ .info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+ }
