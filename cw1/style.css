@@ -33,5 +33,11 @@ body {
   .messageForm{
     border:2px dashed red;
     display:flex;
-    flex-direction: column;  
+    flex-direction: column;
+    align-items: center;  
+  }
+  .content{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
   }
