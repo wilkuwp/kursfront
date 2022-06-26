@@ -82,11 +82,19 @@ article{
 /* n-te dziecko - w nawiasie wpisz index (kolejność elementu) */
 article:nth-child(1){
   /* ustaw zdjęcie w tle */
-  background-image: url(https://files.worldwildlife.org/wwfcmsprod/images/Lion_WWFGIFTS_cover_2020/magazine_small/2wafu1bmcz_b21fc8e6.jpeg);
+  background-image: url(https://bi.im-g.pl/im/c1/85/1a/z27810497IH,Slon-bez-ciosow.jpg);
 }
 
 article:nth-child(2){
   background-image: url(https://zwierzaki.pl/wp-content/uploads/2021/12/zebra-1200x675.jpg);
+}
+
+article:nth-child(3){
+  background-image: url(https://files.worldwildlife.org/wwfcmsprod/images/Lion_WWFGIFTS_cover_2020/magazine_small/2wafu1bmcz_b21fc8e6.jpeg);
+}
+
+article:nth-child(4){
+  background-image: url(https://travelnamibia.pl/wp-content/uploads/2020/10/NAM6_Etosha_NP_TP_01247.jpg);
 }
 
 /* before / after - pseudo element - element który nie 
